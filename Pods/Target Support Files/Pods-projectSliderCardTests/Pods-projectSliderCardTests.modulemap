@@ -1,0 +1,6 @@
+framework module Pods_projectSliderCardTests {
+  umbrella header "Pods-projectSliderCardTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
